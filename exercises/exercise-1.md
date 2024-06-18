@@ -10,10 +10,13 @@ Summary of CF Commands Learnt So far:
 ```
 cf push
 cf apps
-cf delete springrestapp -f
+cf app springrestapp
+cf stop springrestapp
+cf start springrestapp
 cf logs springrestapp
 cf restage springrestapp
 cf restart springrestapp
+cf delete springrestapp -f
 ```
 
 Restage (cf restage): Redeploys the application without changing its configuration, useful for refreshing the application's build or fixing potential issues related to the application droplet.
