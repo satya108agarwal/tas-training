@@ -6,7 +6,7 @@
 Steps: Clone below repo and follow the steps in readme
 
 ```
-git clone [git@github.com:satya108agarwal/springrestapp.git](https://github.com/satya108agarwal/spring-data-jpa-mysql.git)
+git clone https://github.com/satya108agarwal/spring-data-jpa-mysql.git
 ```
 
 Summary of CF Commands Learnt So far:
