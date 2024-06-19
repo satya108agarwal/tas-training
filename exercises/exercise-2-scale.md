@@ -35,7 +35,7 @@ Before running App Autoscaler CLI commands, you must install the App Autoscaler 
 
 ## To install the plug-in:
 
-Download the Tanzu App Autoscaler CLI plug-in from VMware Tanzu Network.  [https://docs.vmware.com/en/VMware-Tanzu-Application-Service/6.0/tas-for-vms/autoscaler-using-autoscaler-cli.html](Documenation)
+Download the Tanzu App Autoscaler CLI plug-in from VMware Tanzu Network. Referernce document [https://docs.vmware.com/en/VMware-Tanzu-Application-Service/6.0/tas-for-vms/autoscaler-using-autoscaler-cli.html] 
 
 ```bash
 cf install-plugin ~/Downloads/autoscaler-for-pcf-cliplugin-macosx64-binary-2.0.91
