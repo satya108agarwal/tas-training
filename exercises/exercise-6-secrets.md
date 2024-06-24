@@ -14,3 +14,8 @@ Securing credentials in a Spring Boot microservices application, especially when
 
 
 ## Spring Boot Demo for creating and accessing secrets
+Steps: Clone below repo and follow the steps in readme
+
+```
+git clone https://github.com/satya108agarwal/credhub-demo.git
+```
