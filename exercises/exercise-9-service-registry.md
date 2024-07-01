@@ -51,6 +51,11 @@ Eureka supports two types of registration:
 
 **Client-Side Discovery:** Clients (other microservices or API consumers) query Eureka for available instances of a service, typically using a load balancing strategy.
 
+## Demo Application - Clone the repo and follow the instructions in readme
+```sh
+git clone git@github.com:satya108agarwal/greeting.git
+```
+
 ## Conclusion
 Eureka service registry plays a crucial role in modern distributed systems, providing essential functionalities such as service discovery, load balancing, and resilience. Its integration with Pivotal Cloud Foundry enhances the management and scalability of microservices deployments, making it a preferred choice for building robust and flexible architectures.
 
